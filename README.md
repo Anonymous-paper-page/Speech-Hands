@@ -2,11 +2,10 @@
 
 **A Self-Reflection Voice Agentic Approach to Speech Recognition and Audio Reasoning with Omni Perception**
 
-[![arXiv](https://img.shields.io/badge/arXiv-2601.09413-b31b1b.svg)](https://arxiv.org/abs/2601.09413)
 [![ACL 2026](https://img.shields.io/badge/ACL-2026%20Main-4b44ce.svg)](#)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
 
-Zhen Wan, Chao-Han Huck Yang, Jinchuan Tian, Hanrong Ye, Ankita Pasad, Szu-wei Fu, Arushi Goel, Ryo Hachiuma, Shizhe Diao, Kunal Dhawan, Sreyan Ghosh, Yusuke Hirota, Zhehuai Chen, Rafael Valle, Ehsan Hosseini Asl, Chenhui Chu, Shinji Watanabe, Yu-Chiang Frank Wang, Boris Ginsburg
+*Authors anonymized during ACL 2026 double-blind review.*
 
 <p align="center"><img src="docs/figures/teaser.png" alt="Speech-Hands overview" width="780"></p>
 
@@ -310,20 +309,18 @@ python test_qwen_baseline.py <task> <no_audio>   # Qwen2.5-Omni baseline
 
 ## Citation
 
-Once the ACL Anthology ID is live we will update this. For now:
+Author list and arXiv ID are withheld during the ACL 2026 double-blind
+review period. A full BibTeX entry will be added once the paper is
+accepted and anonymity is lifted.
 
 ```bibtex
-@article{wan2026speechhands,
-  title   = {Speech-Hands: A Self-Reflection Voice Agentic Approach to
-             Speech Recognition and Audio Reasoning with Omni Perception},
-  author  = {Wan, Zhen and Yang, Chao-Han Huck and Tian, Jinchuan and Ye, Hanrong
-             and Pasad, Ankita and Fu, Szu-wei and Goel, Arushi and Hachiuma, Ryo
-             and Diao, Shizhe and Dhawan, Kunal and Ghosh, Sreyan and Hirota, Yusuke
-             and Chen, Zhehuai and Valle, Rafael and Hosseini Asl, Ehsan
-             and Chu, Chenhui and Watanabe, Shinji and Wang, Yu-Chiang Frank
-             and Ginsburg, Boris},
-  journal = {arXiv preprint arXiv:2601.09413},
-  year    = {2026}
+@inproceedings{anonymous2026speechhands,
+  title     = {Speech-Hands: A Self-Reflection Voice Agentic Approach to
+               Speech Recognition and Audio Reasoning with Omni Perception},
+  author    = {Anonymous Authors},
+  booktitle = {Proceedings of the 64th Annual Meeting of the Association for
+               Computational Linguistics (Under Review)},
+  year      = {2026}
 }
 ```
 

@@ -17,9 +17,9 @@ dynamic = [
     "keywords",
     "classifiers"
 ]
-# Speech-Hands is the ACL 2026 paper repository accompanying
-# arXiv:2601.09413. The training infrastructure is vendored and adapted
-# from LLaMA Factory (https://github.com/hiyouga/LLaMA-Factory). See
+# Speech-Hands is the paper repository for an ACL 2026 submission
+# currently under double-blind review. The training infrastructure is
+# vendored and adapted from LLaMA Factory (https://github.com/hiyouga/LLaMA-Factory). See
 # NOTICE for third-party attribution. Console script "llamafactory-cli"
 # is preserved for backward compatibility with all training wrappers.
 
